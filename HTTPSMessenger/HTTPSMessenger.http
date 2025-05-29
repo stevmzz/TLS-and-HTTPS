@@ -1,0 +1,6 @@
+@HTTPSMessenger_HostAddress = http://localhost:5164
+
+GET {{HTTPSMessenger_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
